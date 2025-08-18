@@ -291,10 +291,10 @@ li {
     
     <p>We said our farewells without trying to stay in touch. We said that if our paths were fated to cross again one day, it would happen on its own. His question about the truth of our names troubled me. What could his name truly mean to him? A bad memory from his "previous" life? Something that others chose for him, without ever asking? Or perhaps an admission that we are unable to define exclusively on our own even our name, our most personal "lie"?</p>
     
-    <p>As I left, I felt that I had found that "something" I had been missing for so long. The thing that no aspect of conventional success teaches us: the relief that comes when you abandon the exhausting task of defending a fictional, isolated self—a self defined by the "wants" of others—and instead allow yourself to be what you have always been: a unique, random, and inseparable expression of the universe itself. Something authentic. As for Odysseus, the only thing certain is that—unlike us—he chose to be where he is.</p>
+    <p>As I left, I felt that I had found that "something" I had been missing for so long. The thing that no aspect of conventional success teaches us: the relief that comes when you abandon the exhausting task of defending a fictional, isolated self—a self defined by the "wants" of others—and instead allow yourself to be what you have always been: a unique, random, and inseparable expression of the universe itself. Something authentic. As for Odysseus, the only thing certain is that—unlike us—he chose to be where he is. He would be pleased if we summarized with the following Cavafian verse:</p>
     
     <blockquote>
-        <p>He would be pleased if we summarized with the following Cavafian verse: "And if you find her poor, Ithaca has not deceived you. Wise as you have become, with so much experience, you must already have understood what these Ithacas mean..."</p>
+        <p> "And if you find her poor, Ithaca has not deceived you. Wise as you have become, with so much experience, you must already have understood what these Ithacas mean..."</p>
     </blockquote>
 
 </article>
