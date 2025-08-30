@@ -2,7 +2,7 @@
 title: "Dark Energy and Modified Gravity: A Review of Cosmological Models and Observational Probes"
 collection: publications
 category: "reviews"
-permalink: /publication/2025-08-30-dark-energy-review
+permalink: /publications/2025-08-30-dark-energy-review
 excerpt: 'A scientific review on the theoretical framework of modern cosmology, completed during a summer internship at the University of Ioannina.'
 date: 2025-08-30
 venue: 'University of Ioannina'
