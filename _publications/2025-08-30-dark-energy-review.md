@@ -1,9 +1,11 @@
 ---
 title: "Dark Energy and Modified Gravity: A Review of Cosmological Models and Observational Probes"
 collection: publications
-permalink: /publications/dark-energy-review
-excerpt: 'A scientific review completed as part of a summer internship at the University of Ioannina, supervised by Prof. Leandros Perivolaropoulos.'
+category: "reviews"
+permalink: /publication/dark-energy-review
+excerpt: 'A scientific review on the theoretical framework of modern cosmology, completed during a summer internship at the University of Ioannina.'
 date: 2025-08-30
 venue: 'University of Ioannina'
-paper_url: '/files/review.pdf'
+paperurl: '/assets/pdf/review.pdf'
+citation: 'Bisas, A. (2025). &quot;Dark Energy and Modified Gravity: A Review of Cosmological Models and Observational Probes.&quot; <i>Scientific Review, Department of Physics, University of Ioannina</i>.'
 ---
