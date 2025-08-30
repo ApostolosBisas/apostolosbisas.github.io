@@ -11,22 +11,19 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+{% assign publications_by_category = site.publications | group_by: "category" | reverse %}
+
+{% for group in publications_by_category %}
+  {% capture group_name %}{{ group.name }}{% endcapture %}
+  {% if group_name == "reviews" %}
+    <h2 id="{{ group_name | slugify }}" class="archive__subtitle">Reviews</h2>
+  {% elsif group_name == "manuscripts" %}
+    <h2 id="{{ group_name | slugify }}" class="archive__subtitle">Manuscripts</h2>
+  {% else %}
+    <h2 id="{{ group_name | slugify }}" class="archive__subtitle">{{ group_name }}</h2>
+  {% endif %}
+
+  {% for post in group.items %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %}
